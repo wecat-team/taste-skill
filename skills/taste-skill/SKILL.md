@@ -1,16 +1,6 @@
 ---
 name: design-taste-frontend
-description: >-
-  tasteskill 2.5.1, the anti-slop frontend skill. Builds professional company websites at the level
-  of figma.com and x.ai: plain copy in a voice of its own, one system, one section per screen,
-  equal edges, real photographs and real product UI (licensed stand-in photographs when the client
-  has none; a product render only when the brief asks for 3D), a hero entrance and one or two dealt
-  moments on every page, shader effects and scenes only on tech, gaming and software pages, quiet
-  micro-interactions, and a checker and finish gate that enforce it in a real browser. Use this
-  whenever you build, design, redesign, restyle, polish or review a landing page, company,
-  product, shop, cafe, hotel, studio, SaaS, AI, developer-tool or game site, as static HTML/CSS or
-  inside an existing React, Next.js, Vue, Svelte, Astro or Tailwind project, or when the user says
-  a page looks generic, templated or "AI-made".
+description: "tasteskill 2.5.1, skill frontend chống \"AI slop\". Dựng website doanh nghiệp chuyên nghiệp ở tầm figma.com và x.ai: copy mộc mạc có giọng riêng, một hệ thống thống nhất, mỗi màn hình một section, lề đều nhau, ảnh thật và UI sản phẩm thật (dùng ảnh thay thế có bản quyền khi khách chưa có; chỉ render 3D khi brief yêu cầu), hero có hiệu ứng vào trang và một hai điểm nhấn ở mỗi trang, shader và scene chỉ dành cho trang công nghệ, game và phần mềm, micro-interaction tiết chế, kèm checker và finish gate kiểm tra trong trình duyệt thật. Dùng mỗi khi build, thiết kế, redesign, đổi style, polish hoặc review landing page, website công ty, sản phẩm, cửa hàng, quán cafe, khách sạn, studio, SaaS, AI, developer tool hay game, dạng HTML/CSS tĩnh hoặc trong dự án React, Next.js, Vue, Svelte, Astro, Tailwind có sẵn, hoặc khi người dùng chê trang trông chung chung, rập khuôn hay \"giống AI làm\"."
 hooks:
   Stop:
     - hooks:
